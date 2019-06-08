@@ -7,17 +7,17 @@
 # 井号后面的文字是说明文档，不会被程序读取。
 name: LOFFER
 # 描述/签名
-description: 一个可以fork的博客
+“想要成为温柔而强大的人”
 
 #
 # 下面的设定都是可选的
 #
 
 # 你的博客logo图片URL，建议尺寸不超过300px × 300px
-avatar: https://raw.githubusercontent.com/FromEndWorld/LOFFER/master/images/logo.png
+avatar:http://r.photo.store.qq.com/psb?/V11uBhNc4FckWc/zhwzGohYqoK2zkVXLLcT2SsLoje8QG2NZUob8dBPr1E!/r/dEkBAAAAAAAA
 
 # 你的favicon（出现在浏览器tab上）图片URL，建议使用较小(64px × 64px)的图片
-favicon: https://raw.githubusercontent.com/FromEndWorld/LOFFER/master/images/favicon.png
+favicon: http://r.photo.store.qq.com/psb?/V11uBhNc4FckWc/zhwzGohYqoK2zkVXLLcT2SsLoje8QG2NZUob8dBPr1E!/r/dEkBAAAAAAAA
 
 
 # 菜单中的按钮
@@ -32,7 +32,7 @@ navigation:
     url: /tags
 
 # 每页的文章数
-paginate: 8
+paginate: 10
 
 # 你的社交网络链接，它们会作为图标出现在你的网站页脚中，可选填写
 footer-links: 
@@ -53,7 +53,7 @@ footer-links:
   youtube: # channel/<your_long_string> or user/<user-name>
 
 # 站点页脚的文字
-footer-text: Copyright (c) 2019 来自中世界
+footer-text: Copyright (c) 2019 茨城
 
 # 输入Disqus shortname，即可添加评论区，细节可阅读文档。
 disqus: loffer #shortname
